@@ -1,0 +1,4 @@
+// this is a generated file - DO NOT EDIT
+
+TI_CHARTS_OTHER_LDFLAGS=$(inherited) -ObjC -framework QuartzCore
+OTHER_LDFLAGS=$(inherited) $(TI_CHARTS_OTHER_LDFLAGS) 

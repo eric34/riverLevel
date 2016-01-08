@@ -1,0 +1,206 @@
+
+1/8/2016, 11:56:48 AM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.11.1
+  Architecture                = 64bit
+  # CPUs                      = 8
+  Memory                      = 17179869184
+
+Node.js
+  Node.js Version             = 0.12.9
+  npm Version                 = 2.14.9
+
+Titanium CLI
+  CLI Version                 = 5.0.5
+
+Titanium SDK
+  SDK Version                 = 5.1.2.v20151216190036
+  SDK Path                    = /Users/eric/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.v20151216190036
+  Target Platform             = iphone
+
+Command
+  /usr/local/bin/node /Users/eric/.appcelerator/install/5.1.0/package/node_modules/appc-cli-titanium/node_modules/titanium/bin/titanium build --platform ios --log-level trace --sdk 5.1.2.v20151216190036 --project-dir /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel --target simulator --ios-version 9.2 --device-family universal --deploy-type development --sim-type iphone --sim-version 9.2 --device-id 3FC85F5C-80C5-4BEC-B323-B5C0DB263957 --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 55608 --plugin-paths /Users/eric/.appcelerator/install/5.1.0/package/node_modules --config-file /var/folders/z9/f1ccch7j0vn8p5qrlw3rkty40000gq/T/build-1452283004857.json --no-banner
+
+[TRACE]  [ioslib] Validating iOS Simulator UDID 3FC85F5C-80C5-4BEC-B323-B5C0DB263957
+[TRACE]  [ioslib] Found iOS Simulator UDID 3FC85F5C-80C5-4BEC-B323-B5C0DB263957
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone 6
+[TRACE]  [ioslib]   UDID    = 3FC85F5C-80C5-4BEC-B323-B5C0DB263957
+[TRACE]  [ioslib]   iOS     = 9.2
+[TRACE]  [ioslib] Autoselected Xcode: 7.2
+[DEBUG]  Detecting modules in /Users/eric/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: com.appcelerator.apm 1.1.1 @ /Users/eric/Library/Application Support/Titanium/modules/android/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected android module: com.appcelerator.apm 1.1.5 @ /Users/eric/Library/Application Support/Titanium/modules/android/com.appcelerator.apm/1.1.5
+[DEBUG]  Detected android module: com.tripvi.drawerlayout 1.3.4 @ /Users/eric/Library/Application Support/Titanium/modules/android/com.tripvi.drawerlayout/1.3.4
+[DEBUG]  Detected android module: facebook 3.0.3 @ /Users/eric/Library/Application Support/Titanium/modules/android/facebook/3.0.3
+[DEBUG]  Detected android module: facebook 4.0.1 @ /Users/eric/Library/Application Support/Titanium/modules/android/facebook/4.0.1
+[DEBUG]  Detected android module: facebook 4.0.2 @ /Users/eric/Library/Application Support/Titanium/modules/android/facebook/4.0.2
+[DEBUG]  Detected android module: facebook 4.0.3 @ /Users/eric/Library/Application Support/Titanium/modules/android/facebook/4.0.3
+[DEBUG]  Detected android module: facebook 4.0.4 @ /Users/eric/Library/Application Support/Titanium/modules/android/facebook/4.0.4
+[DEBUG]  Detected android module: facebook 4.0.5 @ /Users/eric/Library/Application Support/Titanium/modules/android/facebook/4.0.5
+[DEBUG]  Detected android module: ti.admob 2.1.5 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.admob/2.1.5
+[DEBUG]  Detected android module: ti.admob 2.1.6 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.admob/2.1.6
+[DEBUG]  Detected android module: ti.cloudpush 3.3.7 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.7
+[DEBUG]  Detected android module: ti.cloudpush 3.3.8 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.8
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.1
+[DEBUG]  Detected android module: ti.map 2.2.3 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.map/2.2.3
+[DEBUG]  Detected android module: ti.map 2.3.0 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.map/2.3.0
+[DEBUG]  Detected android module: ti.map 2.3.1 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.map/2.3.1
+[DEBUG]  Detected android module: ti.map 2.3.3 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.map/2.3.3
+[DEBUG]  Detected android module: ti.map 2.3.4 @ /Users/eric/Library/Application Support/Titanium/modules/android/ti.map/2.3.4
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.7 @ /Users/eric/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.7
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.8 @ /Users/eric/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.8
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ /Users/eric/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9
+[DEBUG]  Detected iphone module: com.appcelerator.apm 1.1.1 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.apm 1.1.5 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/com.appcelerator.apm/1.1.5
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.0 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.0
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.1 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.0.0 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.0.0
+[DEBUG]  Detected iphone module: facebook 3.2.0 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/facebook/3.2.0
+[DEBUG]  Detected iphone module: facebook 4.0.0 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/facebook/4.0.0
+[DEBUG]  Detected iphone module: facebook 4.0.3 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/facebook/4.0.3
+[DEBUG]  Detected iphone module: facebook 4.0.4 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/facebook/4.0.4
+[DEBUG]  Detected iphone module: facebook 4.0.5 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/facebook/4.0.5
+[DEBUG]  Detected iphone module: facebook 5.0.0 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/facebook/5.0.0
+[DEBUG]  Detected iphone module: ti.charts 1.5.1 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.charts/1.5.1
+[DEBUG]  Detected iphone module: ti.coremotion 1.1.0 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.1.0
+[DEBUG]  Detected iphone module: ti.map 2.4.1 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.map/2.4.1
+[DEBUG]  Detected iphone module: ti.map 2.5.2 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.map/2.5.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.1 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.1
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.2 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.3 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.3
+[DEBUG]  Detected iphone module: ti.touchid 1.1.0 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.1.0
+[DEBUG]  Detected iphone module: ti.touchid 1.1.2 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.1.2
+[DEBUG]  Detected iphone module: ti.touchid 1.2.0 @ /Users/eric/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.2.0
+[DEBUG]  Looking for Titanium module id=ti.charts version=latest platform=iphone deploy-type=development
+[INFO]   Found Titanium module id=ti.charts version=1.5.1 platform=iphone deploy-type=development path=/Users/eric/Library/Application Support/Titanium/modules/iphone/ti.charts/1.5.1
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK iOS directory: /Users/eric/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.v20151216190036/iphone
+[INFO]   Deploy type: development
+[INFO]   Building for target: simulator
+[INFO]   Building using iOS SDK: 9.2
+[INFO]   Building for iOS Simulator: iPhone 6
+[DEBUG]  UDID: 3FC85F5C-80C5-4BEC-B323-B5C0DB263957
+[DEBUG]  Simulator type: iphone
+[DEBUG]  Simulator version: 9.2
+[INFO]   Building for device family: universal
+[DEBUG]  Setting Xcode target to Debug
+[DEBUG]  Setting Xcode build OS to iphonesimulator
+[DEBUG]  Xcode installation: /Applications/Xcode_old/Xcode.app/Contents/Developer
+[DEBUG]  iOS WWDR certificate: installed
+[INFO]   Minimum iOS version: 7.1
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Set to copy files instead of symlinking
+[INFO]   Initializing the build directory
+[TRACE]  offline build file /var/folders/z9/f1ccch7j0vn8p5qrlw3rkty40000gq/T/build-871f9d5b17138d5b9842e03059e653234c4cf157.json
+[TRACE]  online 1
+[TRACE]  optimizing build, last build was 3528.84 sec ago
+[INFO]   Creating Xcode project
+[TRACE]  Removing pre-compile phase
+[TRACE]  Adding 1 native module library
+[TRACE]  No extensions to add
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/riverLevel.xcodeproj/project.pbxproj
+[INFO]   Creating Entitlements.plist
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/riverLevel.entitlements
+[INFO]   Creating Info.plist
+[INFO]   Disabling ATS
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Info.plist
+[INFO]   Creating main.m
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/main.m
+[INFO]   Creating Xcode config files
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/project.xcconfig
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/module.xcconfig
+[INFO]   Copying Titanium libraries
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/lib/libTiCore.a
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/lib/libtiverify.a
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/lib/libti_ios_debugger.a
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/lib/libti_ios_profiler.a
+[INFO]   Copying Titanium iOS files
+[TRACE]  Skipping Classes/ApplicationRouting.m, it'll be processed later
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/riverLevel_Prefix.pch
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/riverLevel.xcodeproj/xcshareddata/xcschemes/riverLevel.xcscheme
+[INFO]   Creating debugger and profiler plists
+[DEBUG]  Skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/debugger.plist
+[DEBUG]  Skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/profiler.plist
+[INFO]   Analyzing Resources directory
+[INFO]   Analyzing platform files
+[INFO]   Analyzing module files
+[INFO]   Analyzing localized launch images
+[INFO]   Analyzing CommonJS modules
+[INFO]   Creating asset catalog
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/Contents.json
+[INFO]   Creating app icon set
+[TRACE]  Found generated 29x29 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small.png
+[TRACE]  Found generated 58x58 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@2x.png
+[TRACE]  Found generated 87x87 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@3x.png
+[TRACE]  Found generated 40x40 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40.png
+[TRACE]  Found generated 80x80 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@2x.png
+[TRACE]  Found generated 120x120 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@3x.png
+[TRACE]  Found generated 120x120 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@2x.png
+[TRACE]  Found generated 180x180 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@3x.png
+[TRACE]  Found generated 76x76 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-76.png
+[TRACE]  Found generated 152x152 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-76@2x.png
+[TRACE]  Found generated 167x167 app icon: /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-83.5@2x.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json
+[INFO]   Creating launch image set
+[DEBUG]  Unsupported launch image Resources/iphone/Default.png, skipping
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Contents.json
+[INFO]   App thinning disabled, skipping asset image sets
+[DEBUG]  Copying resources
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/KS_nav_ui.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/KS_nav_views.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
+[DEBUG]  Copying CSS files
+[INFO]   Processing JavaScript files
+[DEBUG]  Overwriting /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/Resources/app.js => /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/app.js
+[DEBUG]  Overwriting /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/Resources/demos/basicBar.js => /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/demos/basicBar.js
+[DEBUG]  Overwriting /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/Resources/demos/basicLine.js => /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/demos/basicLine.js
+[DEBUG]  Overwriting /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/Resources/demos/basicPie.js => /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/demos/basicPie.js
+[DEBUG]  Overwriting /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/Resources/demos/basicScatter.js => /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/demos/basicScatter.js
+[DEBUG]  Overwriting /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/Resources/demos/combinedLineBar.js => /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/demos/combinedLineBar.js
+[DEBUG]  Overwriting /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/Resources/demos/customLine.js => /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/demos/customLine.js
+[DEBUG]  Overwriting /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/Resources/navigator.js => /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/navigator.js
+[INFO]   Writing app properties
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/_app_props_.json
+[DEBUG]  Using default application routing
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Classes/ApplicationRouting.m
+[INFO]   Writing i18n files
+[DEBUG]  No i18n files to process
+[INFO]   Processing Titanium symbols
+[DEBUG]  Processing Titanium namespace resources
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/modules/ui/images/badge.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/modules/ui/images/closeButton.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app/modules/ui/images/photoDefault.png
+[TRACE]  No change, skipping /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/Classes/defines.h
+[INFO]   Removing files
+[DEBUG]  Removing empty directories
+[INFO]   Skipping xcodebuild
+[INFO]   Finished building the application in 1s 142ms
+[INFO]   Launching iOS Simulator
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone 6
+[TRACE]  [ioslib]   UDID    = 3FC85F5C-80C5-4BEC-B323-B5C0DB263957
+[TRACE]  [ioslib]   iOS     = 9.2
+[TRACE]  [ioslib] Autoselected Xcode: 7.2
+[TRACE]  [ioslib] Removing old log file: /Users/eric/Library/Developer/CoreSimulator/Devices/3FC85F5C-80C5-4BEC-B323-B5C0DB263957/data/Containers/Data/Application/9BB313BB-5B42-4117-92CB-9753E2448A8E/Documents/7ac73222-1b68-452f-9666-03631be07e5d.log
+[TRACE]  [ioslib] iPhone 6 Simulator already running with the correct udid
+[TRACE]  [ioslib] Tailing iPhone 6 Simulator system log: /Users/eric/Library/Logs/CoreSimulator/3FC85F5C-80C5-4BEC-B323-B5C0DB263957/system.log
+[TRACE]  [ioslib] Running: osascript "/Users/eric/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.v20151216190036/node_modules/ioslib/lib/sim_focus.scpt" "Simulator"
+[TRACE]  [ioslib] iPhone 6 Simulator successfully focused
+[TRACE]  [ioslib] Running: /Applications/Xcode_old/Xcode.app/Contents/Developer/usr/bin/simctl install 3FC85F5C-80C5-4BEC-B323-B5C0DB263957 /Users/eric/Documents/Appcelerator_Studio_Workspace/riverLevel/build/iphone/build/Products/Debug-iphonesimulator/riverLevel.app
+[TRACE]  [ioslib] App installed
+[TRACE]  [ioslib] Running: /Applications/Xcode_old/Xcode.app/Contents/Developer/usr/bin/simctl launch 3FC85F5C-80C5-4BEC-B323-B5C0DB263957 com.appc.rivers
+[TRACE]  [ioslib] App launched
+[TRACE]  [riverLevel] assertion failed: 15B42 13C75: libxpc.dylib + 58018 [3E9AE163-9A95-35D3-BA2C-2E7144498580]: 0x7d
+[TRACE]  [ioslib] Found application log file: /Users/eric/Library/Developer/CoreSimulator/Devices/3FC85F5C-80C5-4BEC-B323-B5C0DB263957/data/Containers/Data/Application/0B28CD8B-BCA3-49CE-8D3F-769BC4C423A6/Documents/7ac73222-1b68-452f-9666-03631be07e5d.log

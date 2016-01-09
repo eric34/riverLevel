@@ -157,13 +157,13 @@ exports.create = function (win) {
 
         // Configure the yAxis
         yAxis:{
-        	// We want the y axis always aligned on the right of the chart
+            // We want the y axis always aligned on the right of the chart
             align: Charts.ALIGNMENT_RIGHT,
             alignOffset:0.0,
-			
+            
             // No line
             lineWidth:0.0,
-			
+            
             visibleRange:{ location:0, length:100.0 },
             tickDirection:Charts.SIGN_NEGATIVE,
             majorTicks:{
@@ -182,12 +182,12 @@ exports.create = function (win) {
                     color:'gray',
                     font:{ fontFamily:'Helvetica', fontSize:12 },
                     textAlign:Charts.ALIGNMENT_BOTTOM,
-					// Format numbers according to standard number format patterns. Specifying a prefix 
-					// or suffix will override any prefix or suffix in the number format
-					//   numberFormat:"#",
+                    // Format numbers according to standard number format patterns. Specifying a prefix 
+                    // or suffix will override any prefix or suffix in the number format
+                    //   numberFormat:"#",
                     //   numberSuffix:"%"
-					// is equivalent to
-					//   numberFormat: "#'%'"
+                    // is equivalent to
+                    //   numberFormat: "#'%'"
                     numberFormat: "#'ft'"
                 }
             }

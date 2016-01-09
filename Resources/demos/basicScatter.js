@@ -162,7 +162,7 @@ exports.create = function (win) {
         lineColor:'green',
         lineWidth:2.0,
         dataClickMargin:12.0,
-		fillGradient:{
+        fillGradient:{
             startColor:'#F00',
             endColor:'#0F0',
             angle:90.0

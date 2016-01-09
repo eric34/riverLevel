@@ -161,7 +161,7 @@ exports.create = function (win) {
         name:'line plot',
         lineColor:'green',
         lineWidth:2.0,
-		dataClickMargin:12.0,
+        dataClickMargin:12.0,
         fillGradient:{
             startColor:'#F00',
             endColor:'#0F0',

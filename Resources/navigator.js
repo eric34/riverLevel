@@ -5,7 +5,8 @@ var demos = [
     {    mod:null, title:'Pie Chart', section:'Basic Charts', name:'basicPie'    },
     {   mod:null, title:'Scatter Chart', section:'Basic Charts', name:'basicScatter' },
     {    mod:null, title:'Line and Bar Chart', section:'Combined Charts', name:'combinedLineBar'    },
-    {   mod:null, title:'Custom Line Chart', section:'Interactive', name:'customLine' }
+    {   mod:null, title:'Custom Line Chart', section:'Interactive', name:'customLine' },
+    {   mod:null, title:'Pulling Data', section:'Monkeying Around', name:'pullData' },
 ];
 
 var Charts = null;

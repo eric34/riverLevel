@@ -77,7 +77,9 @@ exports.start = function (chartsModule) {
 
     // Open the application window
     win.open();
-}
+    
+    exports.openDemo(demos[5]);
+};
 
 exports.openDemo = function (demo) {
     var win = Ti.UI.createWindow({
@@ -111,4 +113,4 @@ exports.openDemo = function (demo) {
     } else {
         tab.open(win, { animated:true });
     }
-}
+};

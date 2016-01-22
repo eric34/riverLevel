@@ -7,6 +7,7 @@ var vertLine = null;
 var btnAdd = null;
 var popup = null;
 var popupLabel = null;
+var getData = require('./hydroData').getData;
 
 // Public implementation details for commonJS module
 
@@ -26,6 +27,32 @@ exports.cleanup = function () {
 };
 
 exports.create = function (win) {
+
+	
+	getData(function(data) {
+            var textArea = Ti.UI.createTextArea({
+                borderRadius: 5,
+                borderWidth: 2,
+                borderColor: '#999',
+                backgroundColor: '#111',
+                color: 'yellow',
+                bottom: 40,
+                left: 10,
+                right: 10,
+                height: '85%',
+                font: {
+                    fontFamily: 'courier',
+                    fontSize: 15
+                },
+                value: JSON.stringify(data, null, 4)
+                
+            });
+            win.add(textArea);
+            var wilsonIsSmart = data.observed;
+            console.log("Time is: "+wilsonIsSmart[0].time+" last time is "+wilsonIsSmart[wilsonIsSmart.length-1].time);
+        });
+	
+	
     win.add(Ti.UI.createLabel({
         text:'Click & Drag a data point',
         width:Ti.UI.SIZE || 'auto',

@@ -48,8 +48,8 @@
         <theme>default</theme>
     </mobileweb>
     <modules>
-    <module platform="iphone" version="1.5.1">ti.charts</module>
-  </modules>
+        <module platform="iphone" version="1.5.1">ti.charts</module>
+    </modules>
     <deployment-targets>
         <target device="android">false</target>
         <target device="ipad">true</target>
@@ -57,6 +57,6 @@
         <target device="mobileweb">false</target>
         <target device="windows">false</target>
     </deployment-targets>
-    <sdk-version>5.1.2.v20151216190036</sdk-version>
+    <sdk-version>5.2.0.v20160114021251</sdk-version>
     <property name="appc-app-id" type="string">5690061a62bb62d3385b16ba</property>
 </ti:app>
